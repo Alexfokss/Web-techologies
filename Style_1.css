@@ -210,6 +210,14 @@ ul {
     font-weight: 500;
 }
 
+.form-group {
+display: flex;
+}
+
+.form-control {
+    margin-left: 5px;
+}
+
 .footer-distributed {
     width: 100%;
     display: inline-block;
